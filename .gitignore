@@ -1,0 +1,13 @@
+# ESP-IDF build output
+build/
+
+# Downloaded by the component manager, restored from dependencies.lock
+managed_components/
+
+# menuconfig backup
+sdkconfig.old
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
